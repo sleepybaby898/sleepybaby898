@@ -22,4 +22,4 @@ i enjoy open-source and mainly backend dev
 
 📈 **my github stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sleepybaby898&show_icons=true&theme=dracula" alt="sleepybaby898" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sleepybaby898&show_icons=true&theme=github_dark" alt="sleepybaby898" />
