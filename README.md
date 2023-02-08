@@ -1,3 +1,21 @@
-<h2 align="center">
-<pre><i><a href="https://sleepybaby898.github.io/" target="_blank">💤 sleepy 💤</a></i></pre>
-</h2>
+### hey
+<a href="https://www.instagram.com/sleepybaby898/">
+  <img align="left" alt="sleepy's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.com/users/543692940573278208/">
+  <img align="left" alt="sleepy's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/realsleepybaby">
+  <img align="left" alt="sleepy's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<br />
+
+hi, i'm [joseph](https://sleepybaby898.github.io) and i write code that doesn't work.
+
+i enjoy open-source and mainly backend dev
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
