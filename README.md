@@ -1,4 +1,4 @@
-### hey
+### hey there
 <a href="https://www.instagram.com/sleepybaby898/">
   <img align="left" alt="sleepy's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,7 +11,7 @@
 
 <br /><br />
 
-hi, i'm [joseph](https://sleepybaby898.github.io) and i write code that doesn't work.
+i'm [joseph](https://sleepybaby898.github.io) and i write code that doesn't work.
 
 i enjoy open-source and mainly backend dev
 
