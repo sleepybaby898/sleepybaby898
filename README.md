@@ -18,6 +18,12 @@ i enjoy open-source and mainly backend dev
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
+```text
+Markdown     17 mins         █████████████████████▒░░░   85.72 %
+JavaScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+```
+
 <!--END_SECTION:waka-->
 
 📈 **my github stats**
