@@ -19,6 +19,8 @@ i enjoy open-source and mainly backend dev
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 1 hr 26 mins
+
 HTML         48 mins         ██████████████░░░░░░░░░░░   56.03 %
 Markdown     27 mins         ████████░░░░░░░░░░░░░░░░░   31.63 %
 JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
