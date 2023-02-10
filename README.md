@@ -32,4 +32,4 @@ YAML          4 mins          ▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 📈 **my github stats**<br /><br />
-<p style="text-align: center"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sleepybaby898&show_icons=true&theme=github_dark"/></p>
+<p style="text-align: center"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sleepybaby898&show_icons=true&theme=react"/></p>
