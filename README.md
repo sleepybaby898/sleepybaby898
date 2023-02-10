@@ -33,4 +33,4 @@ YAML          4 mins          ▒░░░░░░░░░░░░░░░�
 
 📈 **my github stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sleepybaby898&show_icons=true&theme=github_dark" alt="sleepybaby898" />
+<p align="center"> [![sleepy's github stats](https://github-readme-stats.vercel.app/api?username=sleepybaby898)](https://github.com/anuraghazra/github-readme-stats)
