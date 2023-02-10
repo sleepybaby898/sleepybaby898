@@ -19,9 +19,11 @@ i enjoy open-source and mainly backend dev
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     17 mins         █████████████████████▒░░░   85.72 %
-JavaScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+HTML         48 mins         ██████████████░░░░░░░░░░░   56.03 %
+Markdown     27 mins         ████████░░░░░░░░░░░░░░░░░   31.63 %
+JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
