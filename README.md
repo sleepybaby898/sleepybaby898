@@ -1,6 +1,6 @@
 ### hey there, i'm joseph
 ----
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=36465D&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c/cpp&color=36465D&logoColor=AAA&style=flat-square)
 ![js](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
