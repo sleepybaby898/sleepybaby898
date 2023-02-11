@@ -4,7 +4,7 @@
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c/cpp&color=36465D&logoColor=AAA&style=flat-square)
 ![js](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
-![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=36465D&logoColor=AAA&style=flat-square)
+![scala](https://img.shields.io/static/v1?logo=csharp&label=&message=c-sharp&color=36465D&logoColor=AAA&style=flat-square)
 
 i enjoy open-source and mainly system level and backend dev
 
