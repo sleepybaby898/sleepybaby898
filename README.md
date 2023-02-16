@@ -12,14 +12,14 @@ i enjoy open-source and mainly system level and backend dev
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 30 mins
+Total Time: 5 hrs 9 mins
 
-C             2 hrs 51 mins   █████████████░░░░░░░░░░░░   51.43 %
-HTML          48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-C++           46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Markdown      32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Objective-C   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Assembly      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+C             2 hrs 51 mins   █████████████▓░░░░░░░░░░░   54.84 %
+HTML          48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+C++           46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Markdown      14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Objective-C   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Assembly      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
