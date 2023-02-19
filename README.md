@@ -12,14 +12,14 @@ i enjoy open-source and mainly system level and backend dev
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 56 mins
+Total Time: 2 hrs
 
-Python        56 mins         ████████░░░░░░░░░░░░░░░░░   31.88 %
-C             46 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.66 %
-C++           46 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
-Markdown      14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Assembly      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-JSON          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Python       56 mins         ███████████▓░░░░░░░░░░░░░   46.57 %
+C++          46 mins         █████████▓░░░░░░░░░░░░░░░   38.50 %
+Markdown     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+C            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
