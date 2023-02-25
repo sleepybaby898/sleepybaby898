@@ -12,12 +12,9 @@ i enjoy open-source and mainly system level and backend dev
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 48 mins
+Total Time: 0 secs
 
-Python       37 mins         ███████████████████▒░░░░░   77.99 %
-Markdown     10 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
