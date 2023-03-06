@@ -14,7 +14,8 @@ i enjoy open-source and mainly system level and backend dev
 ```text
 Total Time: 0 secs
 
-Python   0 secs          █████████████████████████   100.00 %
+Python   0 secs          ████████████████▒░░░░░░░░   65.39 %
+INI      0 secs          ████████▓░░░░░░░░░░░░░░░░   34.61 %
 ```
 
 <!--END_SECTION:waka-->
