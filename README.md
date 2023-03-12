@@ -12,12 +12,11 @@ i enjoy open-source and mainly system level and backend dev
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 49 mins
+Total Time: 48 mins
 
-C          46 mins         ███████████████████████▓░   95.21 %
-Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+C          46 mins         ████████████████████████░   95.59 %
+Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
