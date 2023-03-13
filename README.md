@@ -14,9 +14,9 @@ i enjoy open-source and mainly system level and backend dev
 ```text
 Total Time: 48 mins
 
-C          46 mins         ████████████████████████░   95.59 %
+C          46 mins         ████████████████████████░   95.79 %
 Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
