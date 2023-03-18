@@ -12,11 +12,9 @@ i enjoy open-source and mainly system level and backend dev
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 48 mins
+Total Time: 0 secs
 
-C          46 mins         ████████████████████████░   95.79 %
-Makefile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
