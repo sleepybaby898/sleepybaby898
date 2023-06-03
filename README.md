@@ -19,10 +19,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 ----
-<a href="https://twitter.com/realsleepy">
+<a href="https://twitter.com/realsleepybaby">
   <img align="left" alt="joseph's twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-<a href="https://www.instagram.com/sleepybaby898/">
+<a href="https://www.instagram.com/josephlmaoo/">
   <img align="left" alt="joseph's instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://www.last.fm/user/sleepybaby898/">
