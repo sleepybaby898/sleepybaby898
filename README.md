@@ -8,8 +8,6 @@
 
 i enjoy open-source and mainly system level and backend dev
 
-i like reverse engineering and most things to do with malware (redteam)
-
 ----
 <a href="https://twitter.com/realsleepybaby">
   <img align="left" alt="joseph's twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
